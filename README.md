@@ -14,15 +14,7 @@ We are committed to developing excellent free software tools, focusing on the fi
 English Website：<https://lumtool.com>
 -------------------------------------
 
-\=======
-致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
-We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
-中文官网：<https://www.majk.cn>
-English Website：<https://lumtool.com>
-
 ***
-
-> > > > > > > 8086baea350a73743305b313bace5894349fe0e5
 
 ## ✨ Features / 功能特性
 
@@ -57,6 +49,10 @@ English Website：<https://lumtool.com>
 | :--------------------------------------: | :-----------------------------------: |
 | ![Wildcard Replacement](assets/en/3.png) | ![Sequence Renaming](assets/en/4.png) |
 
+|             Restore Function             |
+| :------------------------------------: |
+|    ![Restore Function](assets/en/5.png)    |
+
 #### 中文界面
 
 |           主界面           |           通配符匹配           |
@@ -66,6 +62,10 @@ English Website：<https://lumtool.com>
 |           通配符替换           |           序列重命名           |
 | :-----------------------: | :-----------------------: |
 | ![通配符替换](assets/zh/3.png) | ![序列重命名](assets/zh/4.png) |
+
+|             恢复功能             |
+| :--------------------------: |
+|    ![恢复功能](assets/zh/5.png)    |
 
 ***
 
@@ -201,11 +201,5 @@ A: 目前仅支持 Windows 操作系统。
 Q: 可以处理多少个文件？
 A: 支持批量处理1000+文件，多线程处理确保高效完成。
 
-<<<<<<< HEAD
-
 ***
-
-## =======
-
-> > > > > > > 8086baea350a73743305b313bace5894349fe0e5
 
