@@ -36,6 +36,15 @@ English Website：<https://lumtool.com>
   完全免费，无广告、无捆绑、无隐藏收费
 - **Offline Use**: No network connection required
   可离线使用，无需网络连接，随时随地使用
+- **History Restore**: Supports one-click rollback of any operation history.
+  历史记录恢复功能，支持任意操作记录一键还原
+- **Drag-and-Drop Renaming**: Fast batch renaming of folders and specified files via drag-and-drop.
+- **Extension Renaming**: Support batch renaming of file extensions.
+  拖拽重命名，支持拖拽文件夹及指定文件快速批量重命名
+  -**Rule Reuse**: Reuse historical record rules to quickly apply previous configurations.
+  扩展名重命名：支持文件扩展名批量重命名；
+  -**Rule Reuse**: Reuse historical record rules to quickly apply previous configurations.
+  规则复用：支持历史记录规则复用，快速沿用过往配置；
 
 ### 🖼️ Software Interface / 软件界面
 
@@ -49,9 +58,9 @@ English Website：<https://lumtool.com>
 | :--------------------------------------: | :-----------------------------------: |
 | ![Wildcard Replacement](assets/en/3.png) | ![Sequence Renaming](assets/en/4.png) |
 
-|             Restore Function             |
-| :------------------------------------: |
-|    ![Restore Function](assets/en/5.png)    |
+|           Restore Function           |
+| :----------------------------------: |
+| ![Restore Function](assets/en/5.png) |
 
 #### 中文界面
 
@@ -63,9 +72,9 @@ English Website：<https://lumtool.com>
 | :-----------------------: | :-----------------------: |
 | ![通配符替换](assets/zh/3.png) | ![序列重命名](assets/zh/4.png) |
 
-|             恢复功能             |
-| :--------------------------: |
-|    ![恢复功能](assets/zh/5.png)    |
+|           恢复功能           |
+| :----------------------: |
+| ![恢复功能](assets/zh/5.png) |
 
 ***
 
